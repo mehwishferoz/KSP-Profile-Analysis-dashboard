@@ -7,6 +7,7 @@ Our approach involves developing a user-friendly dashboard accessible through tw
 ## Table of Contents
 
 - [Architecture Design](#architecture-design)
+- [Figma Designs](#figma-designs)
 - [What You Need to Run This Application](#what-you-need-to-run-this-application)
 - [How to Run This Code](#how-to-run-this-code)
 - [Sample for Dashboard Access](#sample-for-dashboard-access)
@@ -23,6 +24,14 @@ Our approach involves developing a user-friendly dashboard accessible through tw
 ## <span style="font-size: 120%;">Architecture Design</span>
 
 ![image](https://github.com/Shahanshahsidd208/KSP-Profile-Analysis-dashboard/assets/105127757/1054c47f-4ae3-4530-b34d-d01f9b22b259)
+
+## <span style="font-size: 120%;">Figma Designs</span>
+
+### Performance Analysis Design
+![Performance Analysis](Performance%20Analysis.png)
+
+### Home Page Design
+![KSP HomePage](KSP%20HomePage.png)
 
 ## <span style="font-size: 120%;">What You Need to Run This Application</span>
 
